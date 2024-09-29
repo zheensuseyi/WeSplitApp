@@ -4,7 +4,7 @@
 
 
 
-This project was the first project included in the 100 Days of SwiftUI tutorial! Previously, I was just challenge problems using Swift Playgrounds (which I also uploaded to my github!) Most of the code was given by the tutorial except for the 3 challenges that were given below. That is my own code!
+This project was the first project included in the 100 Days of SwiftUI tutorial! Previously, it was just challenge problems using Swift Playgrounds (which I also uploaded to my github!) Most of the code was given by the tutorial except for the 3 challenges that were given below. That is my own code!
 
 CHALLENGE:
 Add a header to the third section, saying “Amount per person”
